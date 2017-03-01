@@ -1,3 +1,3 @@
 <?php
-echo "adsf"
+echo "adsf".gethostname()
 ?>
