@@ -1,3 +1,3 @@
 <?php
-echo "asdfasdfasdf test: ".gethostname()
+echo "03.03.17 test: ".gethostname()
 ?>
