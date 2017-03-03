@@ -1,3 +1,3 @@
 <?php
-echo "zong-Yu kan-dao le: ".gethostname()
+echo "asdfasdfasdf test: ".gethostname()
 ?>
